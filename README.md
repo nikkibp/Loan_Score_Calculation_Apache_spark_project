@@ -46,16 +46,16 @@ Basically we had a very big file and from this file we have created the required
 datasets i.e. customers_data, loans_data, loan_repayments and
 loan_defaulters.
 
-Creation of customers_data
+Creation of customers_data :-
 The customers_data is having information about the borrowers.
 
-Creation of Loans_data
+Creation of Loans_data :- 
 Loans_data is having details about the loans given by the institution.
 
-Creation of Loan_repayments
+Creation of Loan_repayments :- 
 Loan_repayments is having details about the loans repayment history.
 
-Creation of Loan_defaulters
+Creation of Loan_defaulters :- 
 Loan_defaulters is the dataset having data about all the defaulters.
 
 ## Project Steps for Data Cleaning
