@@ -17,7 +17,7 @@ Data Preprocessing:
 Perform data cleaning and transformation to handle missing values, outliers, and ensure data consistency.
 
 Loan Score Calculation:
-Implement algorithms and models to calculate loan scores based on the applicant's financial history, credit score, and other relevant features.
+Implement  Apache Spark  to calculate loan scores based on the applicant's financial history, credit score, and other relevant features.
 
 Utilize Apache Spark's distributed computing capabilities for efficient processing of large datasets.
 
