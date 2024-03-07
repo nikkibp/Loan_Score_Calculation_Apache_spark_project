@@ -16,8 +16,6 @@ The project supports the ingestion of large datasets containing relevant informa
 Data Preprocessing:
 Perform data cleaning and transformation to handle missing values, outliers, and ensure data consistency.
 
-Feature engineering to create new variables that might contribute to a more accurate loan score.
-
 Loan Score Calculation:
 Implement algorithms and models to calculate loan scores based on the applicant's financial history, credit score, and other relevant features.
 
